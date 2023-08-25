@@ -1,16 +1,15 @@
-# hot_dog_detector
+## Initialization "Hot Dog Detector"
 
-A new Flutter project.
+The "Hot Dog Detector" application is a mobile application developed using the Flutter framework and a TensorFlow Lite model. This app has the ability to detect hot dog images using a pre-trained deep learning model. Here are the basic steps to initialize the application:
 
-## Getting Started
+### Step 1: Setting up the environment
 
-This project is a starting point for a Flutter application.
+Make sure you have Flutter and Dart installed on your system. You can follow the [official Flutter documentation](https://flutter.dev/docs/get-started/install) for detailed instructions on how to install these tools.
 
-A few resources to get you started if this is your first Flutter project:
+### Step 2: Create a new Flutter project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Open your terminal and navigate to the location where you want to create the project.
+2. Run the following command to create a new Flutter project:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+     flutter pub get
